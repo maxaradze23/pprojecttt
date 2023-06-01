@@ -1,0 +1,163 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    max-width: 100%;
+    max-height: 519px;
+    
+}
+
+header {
+    width: 100%;
+    height: 147px;
+    background-color: #2A4D82F7;
+}
+
+
+
+.hello {
+    display: flex;
+    line-height: 40px;
+    flex-direction: column;
+    margin-left: 680px;
+    letter-spacing: 1px;
+    color: #5071A3;
+    margin-top: 51px;
+
+}
+.registracion {
+    margin-left: -10px;
+}
+
+input {
+    width: 575px;
+    height: 75px;
+    border-radius:10px;
+    background-color:#FFFAED ;
+    color: #305285;
+    box-sizing: border-box;
+    border: 2px solid #305285;
+    
+}
+
+::placeholder {
+    color: #8394AB;
+    padding-left: 20px;
+}
+
+.pp {
+    display: flex;
+    flex-direction: column;
+    border-radius: 10%;
+    gap: 100px;
+}
+
+.flex1 {
+    display: flex;
+    flex-direction: column;
+    gap: 33px;
+    margin: 1px 1px 1158px 155px;
+}
+
+.flex2 {
+    display: flex;
+    flex-direction: column;
+    gap: 33px;
+    margin-left: 770px;
+    margin-top: -1647px;
+
+
+}
+
+p {
+    margin-left: 600px;
+    margin-top: 31px;
+    color: #305285;
+}
+
+.register {
+    margin-left: 453px;
+    padding-top: 17px;
+    margin-top: 32px;
+    width: 575px;
+    height: 75px;
+    background-color: #305285;
+    position: absolute;
+    text-align: center;
+    border-radius: 10px;
+    text-decoration: none;
+    color: #E7E7E7;
+    font-size: 30px;
+
+
+}
+
+.dog{
+    margin-left: 870px;
+    height: 70px;
+    margin-top: 5px ;
+    z-index: 1;
+    position: absolute;
+}
+
+.or {
+    margin-top: 134px;
+    margin-left: 730px;
+    color: #305285;
+   font-size: 22px;
+}
+.google {
+    margin-left: 453px;
+    padding-top: 17px;
+    padding-left: 50px;
+    margin-top: 32px;
+    width: 575px;
+    height: 75px;
+    background-color: #FFFAED;
+    position: absolute;
+    text-align: center;
+    border-radius: 10px;
+    text-decoration: none;
+    color:#8394AB ;
+    font-size: 30px;
+
+
+}
+
+
+
+.contactus {
+    width: 100%;
+    height: 161px;
+    background-color:#3A5F96;
+    margin-top: 263px;
+}
+
+footer {
+    width: 100%;
+    background-color:#2A4D82F7;
+    height: 261px;
+
+}
+
+.logo {
+    height: 30px;
+    margin-top: 55px;
+    position: absolute;
+    z-index: 2;
+    margin-left: 550px;
+}
+
+
+.paw {
+
+    margin-left: 1200px;
+    position: absolute;
+    margin-top: 150px;
+  
+    
+
+}
